@@ -1,7 +1,5 @@
 # Сайты в помощь WEB разработчику
 
-- [НАШ GIT](https://github.com/S21SurgutJS)
-
 - [Записи обучалок](#lessons)
 
 - [Roadmaps](#Roadmaps)
