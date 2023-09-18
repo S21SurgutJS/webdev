@@ -16,7 +16,6 @@
 [Emmet](#Emmet) \
 [Plugins for VS Code](#Plugins)
 
-
 ---
 
 ## <a id="Roadmaps">Roadmaps</a>
@@ -80,7 +79,7 @@
 
 ## <a id="lessons">Записи обучалок</a>
 
-- [1 урок 30.08.2023 (выложить на Youtube!)](https://disk.yandex.ru/d/RSbJljyvQarJ8w)
+- [1 урок 30.08.2023 (выложить на Youtube!)](https://youtu.be/EwSeI7azdmo)
 - [2 урок 03.09.2023 (нет записи) сслыка на git](https://github.com/Bloodislav/JC_Club)
 - [3 урок 06.09.2023 (нет записи)]()
 - [4 урок 09.09.2023 (нет записи)]()
