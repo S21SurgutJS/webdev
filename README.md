@@ -79,8 +79,9 @@
 
 ## <a id="lessons">Записи обучалок</a>
 
-- [1 урок 30.08.2023 (выложить на Youtube!)](https://youtu.be/EwSeI7azdmo)
+- [1 урок 30.08.2023](https://youtu.be/EwSeI7azdmo)
 - [2 урок 03.09.2023 (нет записи) сслыка на git](https://github.com/Bloodislav/JC_Club)
 - [3 урок 06.09.2023 (нет записи)]()
 - [4 урок 09.09.2023 (нет записи)]()
 - [5 урок 13.09.2023](https://www.youtube.com/watch?v=6I_qktQd7vs)
+- [6 урок 17.09.2023 (нет записи)сслыка на git](https://github.com/S21SurgutJS/ToDoList/tree/contessa)
