@@ -35,11 +35,6 @@
 
 - [Проверка возможности вложенности тегов](https://caninclude.glitch.me/)
 
-#### flex и grid
-
-- [Flexbox froggy (обучающая игра на css - flex)](https://flexboxfroggy.com/#ru)
-- [Grid Garden (обучающая игра на css - grid)](https://cssgridgarden.com/#ru)
-
 ## <a id="CSS">CSS</a>
 
 - [Учебник по CSS от Mozilla](https://developer.mozilla.org/ru/docs/Web/CSS)
@@ -47,6 +42,11 @@
 - [CSS Справочник примеры и элементы](https://html5css.ru/cssref/default.php)
 - [Справочник ДОКА](https://doka.guide/css/)
 - [Справочник](https://htmlbook.ru/)
+
+#### flex и grid
+
+- [Flexbox froggy (обучающая игра на css - flex)](https://flexboxfroggy.com/#ru)
+- [Grid Garden (обучающая игра на css - grid)](https://cssgridgarden.com/#ru)
 
 ## <a id="JS">JS</a>
 
