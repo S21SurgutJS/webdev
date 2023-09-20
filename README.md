@@ -85,3 +85,4 @@
 - [4 урок 09.09.2023 (нет записи)]()
 - [5 урок 13.09.2023](https://www.youtube.com/watch?v=6I_qktQd7vs)
 - [6 урок 17.09.2023 (нет записи) ссылка на git](https://github.com/S21SurgutJS/ToDoList/tree/contessa)
+- [7 урок 20.09.2023](https://youtu.be/8twG65fky-k)
