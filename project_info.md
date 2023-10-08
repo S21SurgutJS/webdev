@@ -18,14 +18,14 @@
 1. Семен <u>сandaceb</u>
 2. Паша <u>noname</u>
 3. Елена <u>cindyman</u>
-4. Степа <u>ferterbp</u>
+4. Стёпа <u>ferterbp</u>
 5. Хан <u>fenderco</u>
 
 ## Инструменты:
-### Система управления проектами: YouGile
-<https://ru.yougile.com/>
-### User Story: FIGMA JAM
-<https://www.figma.com/figjam/>
+### Система управления проектами: Meistertask
+<https://www.meistertask.com/>
+### User Story: MindMeister
+<https://www.mindmeister.com/ru>
 ### UML диаграмма: diagrams.net
 <https://app.diagrams.net/>
 ### Веб сервис для совместной разработки: GitHub
