@@ -5,11 +5,9 @@
 ##### Миша <u>wheatgrh</u>
 #### Команда:
 1. Дима <u>plummert</u>
-2. Дима <u>facestac</u>
-3. Влад <u>roninsha</u>
-4. Владимир <u>contessa</u>
-5. Елена <u>whitneye</u>
-6. Матвей <u>lollysro</u>
+2. Владимир <u>contessa</u>
+3. Елена <u>whitneye</u>
+4. Матвей <u>lollysro</u>
 
 ### Проект "Школа 21. Сургутский кампус (клубы)"
 #### Тимлид:
@@ -17,9 +15,17 @@
 #### Команда:
 1. Семен <u>сandaceb</u>
 2. Паша <u>noname</u>
-3. Елена <u>cindyman</u>
-4. Стёпа <u>ferterbp</u>
-5. Хан <u>fenderco</u>
+3. Стёпа <u>ferterbp</u>
+4. Владислав <u>tyranico</u>
+
+### Проект "Лендинг -  спортивный клуб"
+#### Тимлид:
+##### Влад <u>roninsha</u>
+#### Команда:
+1. Елена <u>cindyman</u>
+2. Хан <u>fenderco</u>
+3. Владимир <u>maryjori</u>
+4. Дима <u>facestac</u>
 
 ## Инструменты:
 ### Система управления проектами: Meistertask
